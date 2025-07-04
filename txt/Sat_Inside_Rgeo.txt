@@ -1,0 +1,1254 @@
+634
+Perigee: 35754.8 Apogee: 35829.1
+858
+Perigee: 35767.7 Apogee: 35796.3
+1317
+Perigee: 35766.8 Apogee: 35820.1
+2608
+Perigee: 35741.0 Apogee: 35788.5
+2639
+Perigee: 35789.8 Apogee: 35834.5
+4353
+Perigee: 35786.5 Apogee: 35804.7
+4376
+Perigee: 35771.3 Apogee: 35785.7
+4902
+Perigee: 35776.4 Apogee: 35810.9
+5587
+Perigee: 35774.8 Apogee: 35806.3
+5588
+Perigee: 35771.5 Apogee: 35791.1
+7392
+Perigee: 35750.8 Apogee: 35828.3
+7547
+Perigee: 35772.9 Apogee: 35805.2
+8366
+Perigee: 35789.2 Apogee: 35812.4
+8513
+Perigee: 35764.7 Apogee: 35811.3
+10294
+Perigee: 35760.1 Apogee: 35826.3
+11343
+Perigee: 35776.2 Apogee: 35817.9
+11440
+Perigee: 35773.7 Apogee: 35801.6
+11708
+Perigee: 35779.0 Apogee: 35794.3
+12120
+Perigee: 35779.1 Apogee: 35824.1
+12309
+Perigee: 35781.5 Apogee: 35807.1
+12472
+Perigee: 35780.1 Apogee: 35794.2
+12564
+Perigee: 35763.9 Apogee: 35794.7
+12618
+Perigee: 35764.3 Apogee: 35786.9
+12897
+Perigee: 35783.5 Apogee: 35817.5
+13177
+Perigee: 35756.8 Apogee: 35834.3
+13624
+Perigee: 35818.4 Apogee: 35829.5
+13631
+Perigee: 35776.6 Apogee: 35811.4
+13974
+Perigee: 35789.1 Apogee: 35794.4
+14050
+Perigee: 35784.6 Apogee: 35806.0
+14134
+Perigee: 35796.7 Apogee: 35828.0
+14318
+Perigee: 35737.1 Apogee: 35830.9
+14377
+Perigee: 35780.9 Apogee: 35794.7
+14725
+Perigee: 35784.4 Apogee: 35814.4
+14783
+Perigee: 35768.7 Apogee: 35825.1
+14940
+Perigee: 35772.9 Apogee: 35815.5
+15057
+Perigee: 35764.3 Apogee: 35798.8
+15144
+Perigee: 35807.0 Apogee: 35821.3
+15484
+Perigee: 35782.1 Apogee: 35811.8
+15677
+Perigee: 35762.9 Apogee: 35823.9
+15678
+Perigee: 35773.4 Apogee: 35781.5
+15946
+Perigee: 35817.3 Apogee: 35830.6
+15994
+Perigee: 35780.3 Apogee: 35820.1
+16199
+Perigee: 35778.4 Apogee: 35827.9
+16526
+Perigee: 35766.7 Apogee: 35785.3
+16769
+Perigee: 35780.7 Apogee: 35805.3
+18384
+Perigee: 35780.4 Apogee: 35803.9
+18443
+Perigee: 35774.4 Apogee: 35794.4
+18631
+Perigee: 35791.9 Apogee: 35805.0
+18922
+Perigee: 35773.5 Apogee: 35828.0
+19330
+Perigee: 35738.5 Apogee: 35825.4
+19344
+Perigee: 35766.7 Apogee: 35815.5
+19483
+Perigee: 35760.6 Apogee: 35826.5
+19596
+Perigee: 35760.5 Apogee: 35817.8
+19710
+Perigee: 35764.1 Apogee: 35817.0
+20253
+Perigee: 35776.6 Apogee: 35809.4
+20263
+Perigee: 35754.1 Apogee: 35796.0
+20367
+Perigee: 35776.8 Apogee: 35797.1
+20473
+Perigee: 35771.5 Apogee: 35813.1
+20499
+Perigee: 35766.5 Apogee: 35811.6
+20659
+Perigee: 35777.5 Apogee: 35834.3
+20776
+Perigee: 35782.2 Apogee: 35805.0
+20923
+Perigee: 35757.2 Apogee: 35812.0
+20953
+Perigee: 35749.6 Apogee: 35773.1
+21016
+Perigee: 35773.0 Apogee: 35813.2
+21038
+Perigee: 35752.4 Apogee: 35802.6
+21111
+Perigee: 35763.5 Apogee: 35818.5
+21132
+Perigee: 35785.6 Apogee: 35798.5
+21639
+Perigee: 35749.9 Apogee: 35832.2
+21702
+Perigee: 35801.5 Apogee: 35822.9
+21789
+Perigee: 35789.0 Apogee: 35803.9
+22112
+Perigee: 35752.5 Apogee: 35826.7
+22210
+Perigee: 35783.3 Apogee: 35832.6
+22269
+Perigee: 35770.8 Apogee: 35818.7
+22557
+Perigee: 35764.3 Apogee: 35809.1
+22787
+Perigee: 35790.1 Apogee: 35796.9
+22836
+Perigee: 35776.6 Apogee: 35805.1
+22911
+Perigee: 35770.7 Apogee: 35818.3
+22981
+Perigee: 35794.1 Apogee: 35815.7
+22988
+Perigee: 35789.0 Apogee: 35798.4
+23010
+Perigee: 35771.0 Apogee: 35798.6
+23108
+Perigee: 35781.1 Apogee: 35813.2
+23132
+Perigee: 35799.6 Apogee: 35811.8
+23267
+Perigee: 35757.2 Apogee: 35817.3
+23322
+Perigee: 35760.4 Apogee: 35832.3
+23327
+Perigee: 35763.4 Apogee: 35829.1
+23426
+Perigee: 35770.5 Apogee: 35826.6
+23448
+Perigee: 35760.8 Apogee: 35822.3
+23467
+Perigee: 35780.9 Apogee: 35807.5
+23653
+Perigee: 35762.4 Apogee: 35812.4
+23670
+Perigee: 35782.1 Apogee: 35796.1
+23680
+Perigee: 35756.7 Apogee: 35827.8
+23712
+Perigee: 35784.6 Apogee: 35803.1
+23741
+Perigee: 35783.0 Apogee: 35828.5
+23949
+Perigee: 35765.1 Apogee: 35816.6
+23967
+Perigee: 35757.5 Apogee: 35820.6
+24435
+Perigee: 35763.4 Apogee: 35830.3
+24936
+Perigee: 35781.2 Apogee: 35805.7
+25019
+Perigee: 35784.6 Apogee: 35800.8
+25045
+Perigee: 35774.1 Apogee: 35798.1
+25050
+Perigee: 35817.6 Apogee: 35819.2
+25153
+Perigee: 35774.7 Apogee: 35811.3
+25258
+Perigee: 35748.8 Apogee: 35776.6
+25315
+Perigee: 35761.4 Apogee: 35832.2
+25639
+Perigee: 35782.3 Apogee: 35804.4
+25642
+Perigee: 35750.8 Apogee: 35789.7
+25924
+Perigee: 35779.0 Apogee: 35808.1
+25967
+Perigee: 35787.0 Apogee: 35800.1
+26107
+Perigee: 35773.8 Apogee: 35814.6
+26356
+Perigee: 35787.9 Apogee: 35804.1
+26372
+Perigee: 35785.3 Apogee: 35807.5
+26394
+Perigee: 35776.7 Apogee: 35811.4
+26477
+Perigee: 35763.6 Apogee: 35785.5
+26554
+Perigee: 35781.1 Apogee: 35805.9
+26575
+Perigee: 35785.9 Apogee: 35799.1
+26580
+Perigee: 35779.7 Apogee: 35809.2
+26766
+Perigee: 35780.1 Apogee: 35806.3
+26880
+Perigee: 35789.6 Apogee: 35798.6
+26892
+Perigee: 35745.0 Apogee: 35793.3
+26900
+Perigee: 35776.3 Apogee: 35812.0
+26948
+Perigee: 35779.0 Apogee: 35809.5
+27380
+Perigee: 35784.2 Apogee: 35802.5
+27426
+Perigee: 35780.0 Apogee: 35807.4
+27438
+Perigee: 35783.7 Apogee: 35804.2
+27445
+Perigee: 35780.4 Apogee: 35807.0
+27513
+Perigee: 35777.5 Apogee: 35810.0
+27566
+Perigee: 35782.6 Apogee: 35804.3
+27632
+Perigee: 35770.9 Apogee: 35816.6
+27691
+Perigee: 35784.1 Apogee: 35802.4
+27718
+Perigee: 35784.4 Apogee: 35803.1
+27811
+Perigee: 35779.3 Apogee: 35807.9
+27825
+Perigee: 35765.2 Apogee: 35821.5
+27831
+Perigee: 35770.9 Apogee: 35817.3
+27875
+Perigee: 35784.3 Apogee: 35802.6
+27954
+Perigee: 35785.1 Apogee: 35801.9
+28089
+Perigee: 35780.0 Apogee: 35807.6
+28094
+Perigee: 35790.0 Apogee: 35816.6
+28117
+Perigee: 35784.4 Apogee: 35803.5
+28184
+Perigee: 35771.8 Apogee: 35814.8
+28187
+Perigee: 35787.8 Apogee: 35799.7
+28194
+Perigee: 35782.8 Apogee: 35816.5
+28252
+Perigee: 35779.8 Apogee: 35806.4
+28358
+Perigee: 35792.3 Apogee: 35796.3
+28378
+Perigee: 35772.2 Apogee: 35815.0
+28446
+Perigee: 35783.1 Apogee: 35804.1
+28526
+Perigee: 35781.7 Apogee: 35805.6
+28542
+Perigee: 35772.8 Apogee: 35815.1
+28626
+Perigee: 35791.9 Apogee: 35796.7
+28628
+Perigee: 35785.2 Apogee: 35802.5
+28659
+Perigee: 35780.9 Apogee: 35805.8
+28702
+Perigee: 35782.6 Apogee: 35804.9
+28786
+Perigee: 35784.0 Apogee: 35804.6
+28868
+Perigee: 35778.7 Apogee: 35809.1
+28885
+Perigee: 35781.4 Apogee: 35804.9
+28899
+Perigee: 35785.5 Apogee: 35802.1
+28912
+Perigee: 35782.1 Apogee: 35801.5
+28924
+Perigee: 35766.7 Apogee: 35819.3
+28935
+Perigee: 35784.3 Apogee: 35802.9
+28945
+Perigee: 35780.6 Apogee: 35806.8
+29045
+Perigee: 35784.6 Apogee: 35802.4
+29055
+Perigee: 35785.8 Apogee: 35799.7
+29236
+Perigee: 35781.7 Apogee: 35804.9
+29270
+Perigee: 35776.1 Apogee: 35811.5
+29272
+Perigee: 35783.6 Apogee: 35804.2
+29273
+Perigee: 35781.2 Apogee: 35806.6
+29349
+Perigee: 35787.1 Apogee: 35800.5
+29494
+Perigee: 35781.5 Apogee: 35806.3
+29495
+Perigee: 35778.3 Apogee: 35809.5
+29526
+Perigee: 35782.8 Apogee: 35803.3
+29643
+Perigee: 35787.5 Apogee: 35799.9
+30794
+Perigee: 35779.6 Apogee: 35808.5
+31102
+Perigee: 35786.1 Apogee: 35801.8
+31306
+Perigee: 35782.3 Apogee: 35806.4
+31307
+Perigee: 35782.4 Apogee: 35804.8
+31395
+Perigee: 35742.1 Apogee: 35805.0
+31800
+Perigee: 35786.4 Apogee: 35800.7
+31862
+Perigee: 35791.7 Apogee: 35795.8
+32252
+Perigee: 35781.3 Apogee: 35803.5
+32258
+Perigee: 35789.5 Apogee: 35797.0
+32287
+Perigee: 35748.9 Apogee: 35799.8
+32294
+Perigee: 35776.9 Apogee: 35809.6
+32299
+Perigee: 35781.7 Apogee: 35805.3
+32388
+Perigee: 35784.8 Apogee: 35801.7
+32404
+Perigee: 35784.8 Apogee: 35803.0
+32487
+Perigee: 35783.9 Apogee: 35803.5
+32500
+Perigee: 35784.2 Apogee: 35807.3
+32729
+Perigee: 35792.3 Apogee: 35795.8
+32763
+Perigee: 35783.7 Apogee: 35804.4
+32767
+Perigee: 35787.1 Apogee: 35800.4
+32768
+Perigee: 35783.0 Apogee: 35805.2
+32794
+Perigee: 35789.4 Apogee: 35797.2
+32951
+Perigee: 35780.2 Apogee: 35807.0
+33051
+Perigee: 35775.0 Apogee: 35814.6
+33055
+Perigee: 35773.1 Apogee: 35814.2
+33056
+Perigee: 35771.8 Apogee: 35816.3
+33108
+Perigee: 35774.2 Apogee: 35809.0
+33153
+Perigee: 35780.2 Apogee: 35807.1
+33207
+Perigee: 35782.4 Apogee: 35805.2
+33274
+Perigee: 35792.4 Apogee: 35796.0
+33275
+Perigee: 35782.4 Apogee: 35804.9
+33278
+Perigee: 35783.1 Apogee: 35804.6
+33373
+Perigee: 35786.2 Apogee: 35803.2
+33376
+Perigee: 35781.4 Apogee: 35805.6
+33436
+Perigee: 35770.3 Apogee: 35815.7
+33459
+Perigee: 35780.0 Apogee: 35807.5
+33595
+Perigee: 35773.7 Apogee: 35813.7
+33749
+Perigee: 35784.4 Apogee: 35802.9
+34111
+Perigee: 35783.1 Apogee: 35804.7
+34713
+Perigee: 35793.1 Apogee: 35794.9
+34810
+Perigee: 35779.0 Apogee: 35809.4
+34941
+Perigee: 35793.5 Apogee: 35795.0
+35362
+Perigee: 35781.3 Apogee: 35806.1
+35491
+Perigee: 35782.6 Apogee: 35803.5
+35493
+Perigee: 35791.7 Apogee: 35796.3
+35496
+Perigee: 35782.2 Apogee: 35805.6
+35696
+Perigee: 35789.7 Apogee: 35800.4
+35755
+Perigee: 35793.1 Apogee: 35793.8
+35756
+Perigee: 35793.8 Apogee: 35796.2
+35873
+Perigee: 35783.0 Apogee: 35804.5
+35942
+Perigee: 35779.9 Apogee: 35808.5
+35943
+Perigee: 35787.6 Apogee: 35799.2
+36032
+Perigee: 35778.2 Apogee: 35809.3
+36033
+Perigee: 35786.0 Apogee: 35801.8
+36097
+Perigee: 35783.6 Apogee: 35804.6
+36101
+Perigee: 35768.3 Apogee: 35817.9
+36106
+Perigee: 35784.7 Apogee: 35803.0
+36108
+Perigee: 35791.5 Apogee: 35797.9
+36131
+Perigee: 35792.7 Apogee: 35796.4
+36287
+Perigee: 35781.8 Apogee: 35804.3
+36395
+Perigee: 35790.0 Apogee: 35798.3
+36397
+Perigee: 35784.8 Apogee: 35802.2
+36411
+Perigee: 35781.8 Apogee: 35805.4
+36499
+Perigee: 35784.6 Apogee: 35802.5
+36516
+Perigee: 35782.8 Apogee: 35804.4
+36581
+Perigee: 35778.3 Apogee: 35810.2
+36582
+Perigee: 35783.8 Apogee: 35801.8
+36590
+Perigee: 35760.4 Apogee: 35826.6
+36592
+Perigee: 35772.5 Apogee: 35815.9
+36744
+Perigee: 35790.0 Apogee: 35797.4
+36745
+Perigee: 35772.7 Apogee: 35813.8
+36830
+Perigee: 35773.2 Apogee: 35813.4
+36831
+Perigee: 35766.1 Apogee: 35820.5
+36868
+Perigee: 35775.9 Apogee: 35813.6
+37185
+Perigee: 35792.8 Apogee: 35795.7
+37207
+Perigee: 35785.2 Apogee: 35802.1
+37210
+Perigee: 35773.7 Apogee: 35814.0
+37218
+Perigee: 35786.3 Apogee: 35800.6
+37237
+Perigee: 35790.4 Apogee: 35796.5
+37238
+Perigee: 35782.6 Apogee: 35804.9
+37258
+Perigee: 35777.1 Apogee: 35811.5
+37264
+Perigee: 35770.1 Apogee: 35817.2
+37265
+Perigee: 35785.3 Apogee: 35802.3
+37344
+Perigee: 35780.3 Apogee: 35821.1
+37392
+Perigee: 35775.4 Apogee: 35811.1
+37393
+Perigee: 35783.5 Apogee: 35804.9
+37481
+Perigee: 35785.4 Apogee: 35801.9
+37602
+Perigee: 35783.0 Apogee: 35805.0
+37605
+Perigee: 35785.3 Apogee: 35802.8
+37606
+Perigee: 35786.9 Apogee: 35800.0
+37748
+Perigee: 35781.1 Apogee: 35806.2
+37749
+Perigee: 35788.5 Apogee: 35800.2
+37775
+Perigee: 35771.9 Apogee: 35813.8
+37776
+Perigee: 35792.2 Apogee: 35795.2
+37779
+Perigee: 35786.9 Apogee: 35798.9
+37809
+Perigee: 35783.3 Apogee: 35804.7
+37810
+Perigee: 35776.1 Apogee: 35811.3
+37816
+Perigee: 35775.3 Apogee: 35812.4
+37826
+Perigee: 35780.4 Apogee: 35806.8
+37834
+Perigee: 35786.2 Apogee: 35801.3
+37836
+Perigee: 35769.8 Apogee: 35818.3
+37843
+Perigee: 35783.9 Apogee: 35804.3
+37933
+Perigee: 35787.6 Apogee: 35800.0
+37950
+Perigee: 35760.5 Apogee: 35794.4
+37951
+Perigee: 35780.0 Apogee: 35808.9
+38014
+Perigee: 35790.1 Apogee: 35796.7
+38070
+Perigee: 35790.9 Apogee: 35796.8
+38087
+Perigee: 35784.0 Apogee: 35804.4
+38091
+Perigee: 35761.8 Apogee: 35824.1
+38098
+Perigee: 35786.4 Apogee: 35801.1
+38101
+Perigee: 35765.7 Apogee: 35790.8
+38107
+Perigee: 35784.8 Apogee: 35802.9
+38245
+Perigee: 35779.1 Apogee: 35809.5
+38254
+Perigee: 35782.1 Apogee: 35805.9
+38331
+Perigee: 35783.3 Apogee: 35806.8
+38332
+Perigee: 35784.5 Apogee: 35803.2
+38342
+Perigee: 35783.5 Apogee: 35804.2
+38352
+Perigee: 35786.0 Apogee: 35802.4
+38356
+Perigee: 35781.0 Apogee: 35806.3
+38466
+Perigee: 35771.9 Apogee: 35816.6
+38551
+Perigee: 35784.9 Apogee: 35802.9
+38552
+Perigee: 35788.9 Apogee: 35794.8
+38652
+Perigee: 35785.8 Apogee: 35801.7
+38740
+Perigee: 35790.0 Apogee: 35798.2
+38741
+Perigee: 35785.1 Apogee: 35802.7
+38749
+Perigee: 35790.4 Apogee: 35799.5
+38778
+Perigee: 35787.5 Apogee: 35801.7
+38779
+Perigee: 35758.5 Apogee: 35828.8
+38867
+Perigee: 35787.3 Apogee: 35794.4
+38953
+Perigee: 35756.6 Apogee: 35831.9
+38977
+Perigee: 35777.8 Apogee: 35809.7
+38978
+Perigee: 35791.2 Apogee: 35795.7
+38991
+Perigee: 35787.1 Apogee: 35800.9
+38992
+Perigee: 35782.6 Apogee: 35805.8
+39008
+Perigee: 35784.2 Apogee: 35802.5
+39017
+Perigee: 35782.6 Apogee: 35804.4
+39020
+Perigee: 35779.2 Apogee: 35808.5
+39022
+Perigee: 35778.5 Apogee: 35808.8
+39034
+Perigee: 35778.7 Apogee: 35809.5
+39035
+Perigee: 35785.8 Apogee: 35801.9
+39070
+Perigee: 35772.6 Apogee: 35813.6
+39078
+Perigee: 35781.5 Apogee: 35805.5
+39079
+Perigee: 35788.9 Apogee: 35799.3
+39120
+Perigee: 35786.6 Apogee: 35801.1
+39122
+Perigee: 35781.9 Apogee: 35806.2
+39127
+Perigee: 35787.9 Apogee: 35799.1
+39157
+Perigee: 35790.4 Apogee: 35799.6
+39163
+Perigee: 35775.3 Apogee: 35810.8
+39168
+Perigee: 35791.6 Apogee: 35795.2
+39172
+Perigee: 35783.6 Apogee: 35804.8
+39215
+Perigee: 35785.7 Apogee: 35801.6
+39216
+Perigee: 35790.4 Apogee: 35795.1
+39222
+Perigee: 35792.4 Apogee: 35794.1
+39233
+Perigee: 35783.5 Apogee: 35802.2
+39234
+Perigee: 35782.8 Apogee: 35804.6
+39237
+Perigee: 35785.6 Apogee: 35801.8
+39285
+Perigee: 35781.4 Apogee: 35805.5
+39360
+Perigee: 35786.4 Apogee: 35802.3
+39375
+Perigee: 35783.5 Apogee: 35803.6
+39460
+Perigee: 35782.1 Apogee: 35805.4
+39476
+Perigee: 35792.1 Apogee: 35795.5
+39481
+Perigee: 35781.0 Apogee: 35805.9
+39487
+Perigee: 35793.2 Apogee: 35795.4
+39498
+Perigee: 35789.4 Apogee: 35798.0
+39500
+Perigee: 35775.9 Apogee: 35811.2
+39504
+Perigee: 35776.6 Apogee: 35812.2
+39508
+Perigee: 35778.4 Apogee: 35809.0
+39509
+Perigee: 35789.7 Apogee: 35797.9
+39522
+Perigee: 35789.3 Apogee: 35797.3
+39612
+Perigee: 35792.5 Apogee: 35795.4
+39613
+Perigee: 35791.8 Apogee: 35795.2
+39616
+Perigee: 35775.6 Apogee: 35813.5
+39617
+Perigee: 35784.8 Apogee: 35801.6
+39652
+Perigee: 35762.6 Apogee: 35825.9
+39727
+Perigee: 35784.6 Apogee: 35802.3
+39728
+Perigee: 35792.2 Apogee: 35795.2
+39751
+Perigee: 35778.3 Apogee: 35810.1
+39773
+Perigee: 35778.1 Apogee: 35809.6
+40107
+Perigee: 35787.7 Apogee: 35799.6
+40141
+Perigee: 35791.2 Apogee: 35796.6
+40146
+Perigee: 35787.5 Apogee: 35800.6
+40147
+Perigee: 35782.9 Apogee: 35804.4
+40258
+Perigee: 35738.1 Apogee: 35754.8
+40267
+Perigee: 35790.3 Apogee: 35798.4
+40271
+Perigee: 35788.2 Apogee: 35799.9
+40272
+Perigee: 35785.6 Apogee: 35801.8
+40277
+Perigee: 35790.1 Apogee: 35797.4
+40332
+Perigee: 35761.1 Apogee: 35825.5
+40333
+Perigee: 35788.4 Apogee: 35793.5
+40345
+Perigee: 35792.5 Apogee: 35793.8
+40364
+Perigee: 35774.5 Apogee: 35810.7
+40367
+Perigee: 35778.5 Apogee: 35811.3
+40384
+Perigee: 35790.9 Apogee: 35800.2
+40424
+Perigee: 35786.3 Apogee: 35802.7
+40425
+Perigee: 35794.4 Apogee: 35795.0
+40505
+Perigee: 35780.9 Apogee: 35807.2
+40613
+Perigee: 35782.4 Apogee: 35804.7
+40614
+Perigee: 35779.7 Apogee: 35808.8
+40617
+Perigee: 35782.5 Apogee: 35805.2
+40663
+Perigee: 35793.6 Apogee: 35794.9
+40664
+Perigee: 35785.4 Apogee: 35802.1
+40732
+Perigee: 35792.5 Apogee: 35797.6
+40733
+Perigee: 35785.5 Apogee: 35801.6
+40746
+Perigee: 35792.8 Apogee: 35795.9
+40874
+Perigee: 35786.8 Apogee: 35801.0
+40875
+Perigee: 35778.1 Apogee: 35809.6
+40880
+Perigee: 35783.5 Apogee: 35805.8
+40882
+Perigee: 35790.1 Apogee: 35795.5
+40892
+Perigee: 35771.0 Apogee: 35815.2
+40895
+Perigee: 35791.4 Apogee: 35796.0
+40940
+Perigee: 35787.4 Apogee: 35801.8
+40941
+Perigee: 35785.0 Apogee: 35802.3
+40946
+Perigee: 35791.3 Apogee: 35795.6
+40982
+Perigee: 35786.9 Apogee: 35801.3
+40984
+Perigee: 35784.4 Apogee: 35802.4
+41021
+Perigee: 35766.3 Apogee: 35822.9
+41028
+Perigee: 35778.4 Apogee: 35810.2
+41029
+Perigee: 35775.2 Apogee: 35810.0
+41034
+Perigee: 35780.8 Apogee: 35805.2
+41036
+Perigee: 35783.6 Apogee: 35803.8
+41105
+Perigee: 35789.5 Apogee: 35797.7
+41121
+Perigee: 35777.7 Apogee: 35809.9
+41191
+Perigee: 35782.1 Apogee: 35804.1
+41194
+Perigee: 35791.4 Apogee: 35795.5
+41238
+Perigee: 35780.9 Apogee: 35805.4
+41310
+Perigee: 35788.1 Apogee: 35799.7
+41380
+Perigee: 35784.4 Apogee: 35803.4
+41382
+Perigee: 35784.0 Apogee: 35804.3
+41469
+Perigee: 35770.6 Apogee: 35820.8
+41471
+Perigee: 35789.4 Apogee: 35798.7
+41552
+Perigee: 35780.9 Apogee: 35806.7
+41581
+Perigee: 35786.7 Apogee: 35801.3
+41586
+Perigee: 35752.3 Apogee: 35834.2
+41588
+Perigee: 35789.5 Apogee: 35799.4
+41589
+Perigee: 35793.9 Apogee: 35794.8
+41591
+Perigee: 35785.8 Apogee: 35803.4
+41592
+Perigee: 35787.1 Apogee: 35800.0
+41724
+Perigee: 35773.0 Apogee: 35815.5
+41725
+Perigee: 35779.4 Apogee: 35807.7
+41729
+Perigee: 35785.3 Apogee: 35802.0
+41747
+Perigee: 35785.8 Apogee: 35802.0
+41793
+Perigee: 35774.2 Apogee: 35814.7
+41794
+Perigee: 35787.5 Apogee: 35800.4
+41836
+Perigee: 35788.8 Apogee: 35799.0
+41838
+Perigee: 35778.1 Apogee: 35808.8
+41866
+Perigee: 35790.1 Apogee: 35797.3
+41879
+Perigee: 35793.0 Apogee: 35797.8
+41882
+Perigee: 35765.5 Apogee: 35823.8
+41893
+Perigee: 35787.5 Apogee: 35799.7
+41903
+Perigee: 35791.9 Apogee: 35797.8
+41904
+Perigee: 35783.8 Apogee: 35803.1
+41911
+Perigee: 35787.5 Apogee: 35798.5
+41940
+Perigee: 35777.4 Apogee: 35811.1
+41942
+Perigee: 35790.5 Apogee: 35797.3
+41944
+Perigee: 35784.0 Apogee: 35803.4
+41945
+Perigee: 35792.2 Apogee: 35795.1
+42070
+Perigee: 35784.5 Apogee: 35802.8
+42075
+Perigee: 35793.0 Apogee: 35796.0
+42432
+Perigee: 35783.0 Apogee: 35805.0
+42662
+Perigee: 35775.3 Apogee: 35813.5
+42691
+Perigee: 35786.8 Apogee: 35798.9
+42692
+Perigee: 35785.4 Apogee: 35802.8
+42695
+Perigee: 35783.9 Apogee: 35804.1
+42698
+Perigee: 35794.3 Apogee: 35794.4
+42709
+Perigee: 35790.9 Apogee: 35799.8
+42740
+Perigee: 35792.3 Apogee: 35795.5
+42741
+Perigee: 35793.3 Apogee: 35794.7
+42747
+Perigee: 35766.5 Apogee: 35820.8
+42749
+Perigee: 35783.8 Apogee: 35802.3
+42801
+Perigee: 35781.5 Apogee: 35804.6
+42814
+Perigee: 35776.6 Apogee: 35811.4
+42815
+Perigee: 35787.5 Apogee: 35800.3
+42818
+Perigee: 35786.4 Apogee: 35802.0
+42907
+Perigee: 35789.8 Apogee: 35795.5
+42917
+Perigee: 35787.0 Apogee: 35803.1
+42934
+Perigee: 35786.3 Apogee: 35802.2
+42942
+Perigee: 35785.6 Apogee: 35805.6
+42949
+Perigee: 35777.6 Apogee: 35810.8
+42950
+Perigee: 35782.6 Apogee: 35805.2
+42951
+Perigee: 35776.9 Apogee: 35809.8
+42967
+Perigee: 35782.5 Apogee: 35804.9
+42984
+Perigee: 35789.8 Apogee: 35797.9
+43039
+Perigee: 35786.5 Apogee: 35802.0
+43162
+Perigee: 35786.1 Apogee: 35800.8
+43174
+Perigee: 35777.6 Apogee: 35810.3
+43175
+Perigee: 35789.4 Apogee: 35798.5
+43178
+Perigee: 35777.4 Apogee: 35811.1
+43226
+Perigee: 35748.0 Apogee: 35755.5
+43228
+Perigee: 35770.2 Apogee: 35818.0
+43271
+Perigee: 35789.7 Apogee: 35798.0
+43272
+Perigee: 35789.6 Apogee: 35797.7
+43339
+Perigee: 35793.5 Apogee: 35797.7
+43432
+Perigee: 35792.0 Apogee: 35795.7
+43450
+Perigee: 35790.2 Apogee: 35796.8
+43463
+Perigee: 35785.6 Apogee: 35802.7
+43488
+Perigee: 35791.5 Apogee: 35796.9
+43491
+Perigee: 35785.6 Apogee: 35799.3
+43562
+Perigee: 35782.2 Apogee: 35806.0
+43587
+Perigee: 35788.8 Apogee: 35799.2
+43611
+Perigee: 35784.7 Apogee: 35801.8
+43632
+Perigee: 35787.6 Apogee: 35800.7
+43633
+Perigee: 35789.5 Apogee: 35797.2
+43683
+Perigee: 35776.4 Apogee: 35812.6
+43698
+Perigee: 35779.4 Apogee: 35806.0
+43700
+Perigee: 35784.7 Apogee: 35803.1
+43823
+Perigee: 35784.8 Apogee: 35803.5
+43824
+Perigee: 35759.2 Apogee: 35828.0
+43864
+Perigee: 35784.8 Apogee: 35802.4
+43867
+Perigee: 35790.3 Apogee: 35793.6
+43874
+Perigee: 35784.9 Apogee: 35803.5
+43920
+Perigee: 35786.4 Apogee: 35801.2
+44034
+Perigee: 35768.3 Apogee: 35818.7
+44035
+Perigee: 35789.2 Apogee: 35797.4
+44048
+Perigee: 35774.4 Apogee: 35813.3
+44067
+Perigee: 35758.8 Apogee: 35830.1
+44071
+Perigee: 35788.2 Apogee: 35800.4
+44076
+Perigee: 35788.5 Apogee: 35798.9
+44186
+Perigee: 35786.7 Apogee: 35801.7
+44231
+Perigee: 35778.2 Apogee: 35810.2
+44307
+Perigee: 35781.6 Apogee: 35805.6
+44333
+Perigee: 35792.9 Apogee: 35795.9
+44334
+Perigee: 35780.3 Apogee: 35807.4
+44457
+Perigee: 35790.0 Apogee: 35795.7
+44475
+Perigee: 35791.2 Apogee: 35796.6
+44476
+Perigee: 35788.9 Apogee: 35799.1
+44479
+Perigee: 35784.9 Apogee: 35802.2
+44624
+Perigee: 35780.9 Apogee: 35806.2
+44625
+Perigee: 35794.5 Apogee: 35796.5
+44637
+Perigee: 35777.9 Apogee: 35808.2
+44800
+Perigee: 35785.5 Apogee: 35802.4
+44801
+Perigee: 35785.5 Apogee: 35801.2
+44868
+Perigee: 35792.8 Apogee: 35795.2
+44903
+Perigee: 35790.9 Apogee: 35796.7
+44910
+Perigee: 35753.8 Apogee: 35834.1
+44978
+Perigee: 35788.4 Apogee: 35801.5
+45026
+Perigee: 35778.0 Apogee: 35811.0
+45027
+Perigee: 35784.1 Apogee: 35803.4
+45245
+Perigee: 35779.6 Apogee: 35808.4
+45246
+Perigee: 35792.0 Apogee: 35796.5
+45344
+Perigee: 35786.1 Apogee: 35801.2
+45807
+Perigee: 35771.9 Apogee: 35812.8
+45863
+Perigee: 35783.7 Apogee: 35804.7
+45920
+Perigee: 35790.1 Apogee: 35798.1
+45985
+Perigee: 35792.4 Apogee: 35797.3
+45986
+Perigee: 35789.0 Apogee: 35799.5
+46112
+Perigee: 35776.4 Apogee: 35811.8
+46113
+Perigee: 35792.0 Apogee: 35796.4
+46114
+Perigee: 35784.9 Apogee: 35801.7
+46916
+Perigee: 35790.9 Apogee: 35798.3
+47202
+Perigee: 35783.6 Apogee: 35804.5
+47240
+Perigee: 35777.0 Apogee: 35810.8
+47256
+Perigee: 35775.8 Apogee: 35811.0
+47306
+Perigee: 35793.3 Apogee: 35794.3
+47321
+Perigee: 35789.0 Apogee: 35799.1
+47613
+Perigee: 35781.5 Apogee: 35802.8
+48618
+Perigee: 35786.4 Apogee: 35800.4
+48808
+Perigee: 35785.3 Apogee: 35806.4
+48838
+Perigee: 35773.7 Apogee: 35813.9
+49011
+Perigee: 35788.7 Apogee: 35798.6
+49055
+Perigee: 35785.0 Apogee: 35804.0
+49056
+Perigee: 35787.2 Apogee: 35800.4
+49062
+Perigee: 35783.4 Apogee: 35804.9
+49115
+Perigee: 35787.4 Apogee: 35799.8
+49125
+Perigee: 35784.1 Apogee: 35806.1
+49332
+Perigee: 35790.2 Apogee: 35798.4
+49333
+Perigee: 35787.8 Apogee: 35799.7
+49505
+Perigee: 35785.4 Apogee: 35803.2
+49817
+Perigee: 35791.1 Apogee: 35797.1
+50001
+Perigee: 35791.8 Apogee: 35795.9
+50002
+Perigee: 35789.9 Apogee: 35798.9
+50005
+Perigee: 35789.9 Apogee: 35797.2
+50212
+Perigee: 35782.0 Apogee: 35805.8
+50319
+Perigee: 35793.8 Apogee: 35795.0
+50321
+Perigee: 35737.1 Apogee: 35749.8
+50322
+Perigee: 35745.4 Apogee: 35777.1
+50574
+Perigee: 35767.7 Apogee: 35819.2
+51281
+Perigee: 35760.1 Apogee: 35762.5
+51850
+Perigee: 35792.8 Apogee: 35794.9
+52255
+Perigee: 35791.9 Apogee: 35795.8
+52817
+Perigee: 35774.3 Apogee: 35813.1
+52903
+Perigee: 35789.2 Apogee: 35798.3
+52904
+Perigee: 35791.3 Apogee: 35796.1
+52933
+Perigee: 35789.6 Apogee: 35797.9
+52940
+Perigee: 35786.6 Apogee: 35798.5
+53100
+Perigee: 35789.5 Apogee: 35797.6
+53355
+Perigee: 35786.7 Apogee: 35800.8
+53765
+Perigee: 35783.8 Apogee: 35804.9
+53813
+Perigee: 35791.8 Apogee: 35794.8
+53960
+Perigee: 35785.2 Apogee: 35803.5
+53961
+Perigee: 35789.1 Apogee: 35799.2
+54026
+Perigee: 35786.2 Apogee: 35801.1
+54027
+Perigee: 35788.2 Apogee: 35799.9
+54033
+Perigee: 35788.5 Apogee: 35798.3
+54048
+Perigee: 35785.5 Apogee: 35801.6
+54225
+Perigee: 35784.5 Apogee: 35802.7
+54230
+Perigee: 35764.9 Apogee: 35822.1
+54243
+Perigee: 35792.1 Apogee: 35795.0
+54244
+Perigee: 35786.1 Apogee: 35801.9
+54259
+Perigee: 35784.7 Apogee: 35801.6
+54741
+Perigee: 35784.9 Apogee: 35801.9
+54742
+Perigee: 35782.6 Apogee: 35806.5
+54743
+Perigee: 35787.9 Apogee: 35800.9
+55239
+Perigee: 35775.6 Apogee: 35802.0
+55263
+Perigee: 35793.5 Apogee: 35794.6
+55506
+Perigee: 35788.1 Apogee: 35798.7
+55508
+Perigee: 35773.7 Apogee: 35814.3
+55686
+Perigee: 35777.5 Apogee: 35810.0
+55841
+Perigee: 35787.9 Apogee: 35799.6
+55912
+Perigee: 35781.3 Apogee: 35807.8
+55970
+Perigee: 35792.5 Apogee: 35794.8
+55971
+Perigee: 35786.8 Apogee: 35801.4
+56174
+Perigee: 35785.2 Apogee: 35803.0
+56370
+Perigee: 35793.1 Apogee: 35795.0
+56371
+Perigee: 35785.3 Apogee: 35802.1
+56372
+Perigee: 35778.8 Apogee: 35806.3
+56564
+Perigee: 35766.0 Apogee: 35821.7
+56757
+Perigee: 35777.4 Apogee: 35810.2
+56759
+Perigee: 35779.9 Apogee: 35807.3
+57045
+Perigee: 35782.8 Apogee: 35805.3
+57213
+Perigee: 35791.3 Apogee: 35796.4
+57214
+Perigee: 35793.6 Apogee: 35794.1
+57479
+Perigee: 35788.6 Apogee: 35800.7
+57493
+Perigee: 35786.1 Apogee: 35801.5
+57624
+Perigee: 35791.5 Apogee: 35796.1
+57836
+Perigee: 35791.4 Apogee: 35796.6
+58204
+Perigee: 35789.6 Apogee: 35798.8
+58253
+Perigee: 35781.9 Apogee: 35804.9
+58698
+Perigee: 35791.2 Apogee: 35796.1
+58990
+Perigee: 35788.1 Apogee: 35798.9
+58995
+Perigee: 35789.1 Apogee: 35798.7
+59020
+Perigee: 35779.7 Apogee: 35806.5
+59069
+Perigee: 35787.4 Apogee: 35801.0
+59346
+Perigee: 35791.6 Apogee: 35796.3
+59915
+Perigee: 35785.4 Apogee: 35803.4
+60086
+Perigee: 35785.9 Apogee: 35802.3
+60133
+Perigee: 35792.9 Apogee: 35794.3
+60179
+Perigee: 35784.7 Apogee: 35803.6
+60233
+Perigee: 35784.1 Apogee: 35803.2
+60327
+Perigee: 35790.0 Apogee: 35797.1
+60606
+Perigee: 35788.1 Apogee: 35800.4
+61503
+Perigee: 35787.6 Apogee: 35800.2
+61733
+Perigee: 35788.8 Apogee: 35799.2
+61910
+Perigee: 35789.7 Apogee: 35798.1
+62006
+Perigee: 35791.3 Apogee: 35797.4
+62028
+Perigee: 35781.2 Apogee: 35805.1
+62259
+Perigee: 35769.3 Apogee: 35817.7
+62374
+Perigee: 35783.3 Apogee: 35803.9
+62483
+Perigee: 35792.4 Apogee: 35794.6
+62804
+Perigee: 35787.2 Apogee: 35799.2
+62876
+Perigee: 35785.9 Apogee: 35800.8
+63075
+Perigee: 35774.9 Apogee: 35812.0
+63157
+Perigee: 35778.9 Apogee: 35810.6
+63397
+Perigee: 35783.7 Apogee: 35803.9
+63524
+Perigee: 35784.6 Apogee: 35802.7
+63662
+Perigee: 35788.0 Apogee: 35799.6
+63924
+Perigee: 35786.0 Apogee: 35800.9
+64062
+Perigee: 35784.3 Apogee: 35803.0
+64290
+Perigee: 35785.3 Apogee: 35800.7
+64470
+Perigee: 35787.2 Apogee: 35800.6
