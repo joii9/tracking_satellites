@@ -1,6 +1,3 @@
-File with all the satellites inside the range 35'736 and 35'836 km but with this range some important satellites
-wasn't cosidered. So I will create anothe Sat_Inside_Rgeo_v2.txt with a wider range.
-
 634
 Perigee: 35754.8 Apogee: 35829.1
 858
@@ -11,32 +8,62 @@ Perigee: 35766.8 Apogee: 35820.1
 Perigee: 35741.0 Apogee: 35788.5
 2639
 Perigee: 35789.8 Apogee: 35834.5
+2969
+Perigee: 35745.1 Apogee: 35837.3
+3431
+Perigee: 35783.4 Apogee: 35848.8
 4353
 Perigee: 35786.5 Apogee: 35804.7
 4376
 Perigee: 35771.3 Apogee: 35785.7
+4418
+Perigee: 35753.3 Apogee: 35838.7
 4902
 Perigee: 35776.4 Apogee: 35810.9
 5587
 Perigee: 35774.8 Apogee: 35806.3
 5588
 Perigee: 35771.5 Apogee: 35791.1
+6052
+Perigee: 35824.1 Apogee: 35850.3
 7392
 Perigee: 35750.8 Apogee: 35828.3
 7547
 Perigee: 35772.9 Apogee: 35805.2
+8357
+Perigee: 35745.0 Apogee: 35848.7
 8366
 Perigee: 35789.2 Apogee: 35812.4
 8513
 Perigee: 35764.7 Apogee: 35811.3
+8585
+Perigee: 35729.1 Apogee: 35853.3
+10159
+Perigee: 35778.8 Apogee: 35851.4
 10294
 Perigee: 35760.1 Apogee: 35826.3
+10489
+Perigee: 35775.9 Apogee: 35856.3
+10778
+Perigee: 35733.4 Apogee: 35786.6
+10792
+Perigee: 35723.5 Apogee: 35855.5
+10987
+Perigee: 35730.6 Apogee: 35812.4
 11343
 Perigee: 35776.2 Apogee: 35817.9
 11440
 Perigee: 35773.7 Apogee: 35801.6
+11561
+Perigee: 35735.1 Apogee: 35841.8
+11648
+Perigee: 35732.2 Apogee: 35833.8
 11708
 Perigee: 35779.0 Apogee: 35794.3
+11890
+Perigee: 35746.1 Apogee: 35838.4
+12003
+Perigee: 35726.3 Apogee: 35812.7
 12120
 Perigee: 35779.1 Apogee: 35824.1
 12309
@@ -49,10 +76,18 @@ Perigee: 35763.9 Apogee: 35794.7
 Perigee: 35764.3 Apogee: 35786.9
 12897
 Perigee: 35783.5 Apogee: 35817.5
+12967
+Perigee: 35834.1 Apogee: 35852.4
+13129
+Perigee: 35735.9 Apogee: 35847.6
 13177
 Perigee: 35756.8 Apogee: 35834.3
+13431
+Perigee: 35824.9 Apogee: 35853.7
 13624
 Perigee: 35818.4 Apogee: 35829.5
+13630
+Perigee: 35713.0 Apogee: 35824.1
 13631
 Perigee: 35776.6 Apogee: 35811.4
 13974
@@ -61,14 +96,20 @@ Perigee: 35789.1 Apogee: 35794.4
 Perigee: 35784.6 Apogee: 35806.0
 14134
 Perigee: 35796.7 Apogee: 35828.0
+14158
+Perigee: 35833.6 Apogee: 35845.0
 14318
 Perigee: 35737.1 Apogee: 35830.9
+14365
+Perigee: 35790.8 Apogee: 35840.0
 14377
 Perigee: 35780.9 Apogee: 35794.7
 14725
 Perigee: 35784.4 Apogee: 35814.4
 14783
 Perigee: 35768.7 Apogee: 35825.1
+14899
+Perigee: 35725.2 Apogee: 35799.1
 14940
 Perigee: 35772.9 Apogee: 35815.5
 15057
@@ -77,6 +118,8 @@ Perigee: 35764.3 Apogee: 35798.8
 Perigee: 35807.0 Apogee: 35821.3
 15484
 Perigee: 35782.1 Apogee: 35811.8
+15574
+Perigee: 35795.0 Apogee: 35847.3
 15677
 Perigee: 35762.9 Apogee: 35823.9
 15678
@@ -91,10 +134,14 @@ Perigee: 35778.4 Apogee: 35827.9
 Perigee: 35766.7 Apogee: 35785.3
 16769
 Perigee: 35780.7 Apogee: 35805.3
+17125
+Perigee: 35727.0 Apogee: 35813.2
 18384
 Perigee: 35780.4 Apogee: 35803.9
 18443
 Perigee: 35774.4 Apogee: 35794.4
+18575
+Perigee: 35761.0 Apogee: 35841.8
 18631
 Perigee: 35791.9 Apogee: 35805.0
 18922
@@ -115,12 +162,16 @@ Perigee: 35776.6 Apogee: 35809.4
 Perigee: 35754.1 Apogee: 35796.0
 20367
 Perigee: 35776.8 Apogee: 35797.1
+20391
+Perigee: 35809.4 Apogee: 35840.8
 20473
 Perigee: 35771.5 Apogee: 35813.1
 20499
 Perigee: 35766.5 Apogee: 35811.6
 20659
 Perigee: 35777.5 Apogee: 35834.3
+20693
+Perigee: 35744.3 Apogee: 35841.4
 20776
 Perigee: 35782.2 Apogee: 35805.0
 20923
@@ -141,20 +192,36 @@ Perigee: 35749.9 Apogee: 35832.2
 Perigee: 35801.5 Apogee: 35822.9
 21789
 Perigee: 35789.0 Apogee: 35803.9
+21821
+Perigee: 35790.2 Apogee: 35844.6
+22027
+Perigee: 35795.9 Apogee: 35860.4
 22112
 Perigee: 35752.5 Apogee: 35826.7
 22210
 Perigee: 35783.3 Apogee: 35832.6
 22269
 Perigee: 35770.8 Apogee: 35818.7
+22314
+Perigee: 35750.6 Apogee: 35840.7
 22557
 Perigee: 35764.3 Apogee: 35809.1
+22694
+Perigee: 35734.8 Apogee: 35848.4
 22787
 Perigee: 35790.1 Apogee: 35796.9
 22836
 Perigee: 35776.6 Apogee: 35805.1
+22839
+Perigee: 35756.3 Apogee: 35836.7
+22883
+Perigee: 35723.1 Apogee: 35753.4
 22911
 Perigee: 35770.7 Apogee: 35818.3
+22927
+Perigee: 35750.4 Apogee: 35844.2
+22963
+Perigee: 35773.0 Apogee: 35859.8
 22981
 Perigee: 35794.1 Apogee: 35815.7
 22988
@@ -165,6 +232,8 @@ Perigee: 35771.0 Apogee: 35798.6
 Perigee: 35781.1 Apogee: 35813.2
 23132
 Perigee: 35799.6 Apogee: 35811.8
+23168
+Perigee: 35790.8 Apogee: 35857.9
 23267
 Perigee: 35757.2 Apogee: 35817.3
 23322
@@ -177,6 +246,8 @@ Perigee: 35770.5 Apogee: 35826.6
 Perigee: 35760.8 Apogee: 35822.3
 23467
 Perigee: 35780.9 Apogee: 35807.5
+23613
+Perigee: 35745.5 Apogee: 35840.5
 23653
 Perigee: 35762.4 Apogee: 35812.4
 23670
@@ -187,12 +258,20 @@ Perigee: 35756.7 Apogee: 35827.8
 Perigee: 35784.6 Apogee: 35803.1
 23741
 Perigee: 35783.0 Apogee: 35828.5
+23880
+Perigee: 35799.4 Apogee: 35859.7
 23949
 Perigee: 35765.1 Apogee: 35816.6
 23967
 Perigee: 35757.5 Apogee: 35820.6
+24313
+Perigee: 35739.1 Apogee: 35845.9
 24435
 Perigee: 35763.4 Apogee: 35830.3
+24438
+Perigee: 35770.4 Apogee: 35851.2
+24798
+Perigee: 35724.2 Apogee: 35805.2
 24936
 Perigee: 35781.2 Apogee: 35805.7
 25019
@@ -201,16 +280,22 @@ Perigee: 35784.6 Apogee: 35800.8
 Perigee: 35774.1 Apogee: 35798.1
 25050
 Perigee: 35817.6 Apogee: 35819.2
+25110
+Perigee: 35785.9 Apogee: 35843.8
 25153
 Perigee: 35774.7 Apogee: 35811.3
 25258
 Perigee: 35748.8 Apogee: 35776.6
 25315
 Perigee: 35761.4 Apogee: 35832.2
+25638
+Perigee: 35803.8 Apogee: 35839.1
 25639
 Perigee: 35782.3 Apogee: 35804.4
 25642
 Perigee: 35750.8 Apogee: 35789.7
+25880
+Perigee: 35725.6 Apogee: 35845.5
 25924
 Perigee: 35779.0 Apogee: 35808.1
 25967
@@ -231,6 +316,8 @@ Perigee: 35781.1 Apogee: 35805.9
 Perigee: 35785.9 Apogee: 35799.1
 26580
 Perigee: 35779.7 Apogee: 35809.2
+26635
+Perigee: 35732.7 Apogee: 35854.0
 26766
 Perigee: 35780.1 Apogee: 35806.3
 26880
@@ -259,6 +346,8 @@ Perigee: 35770.9 Apogee: 35816.6
 Perigee: 35784.1 Apogee: 35802.4
 27718
 Perigee: 35784.4 Apogee: 35803.1
+27780
+Perigee: 35718.2 Apogee: 35808.2
 27811
 Perigee: 35779.3 Apogee: 35807.9
 27825
@@ -367,6 +456,8 @@ Perigee: 35781.7 Apogee: 35805.3
 Perigee: 35784.8 Apogee: 35801.7
 32404
 Perigee: 35784.8 Apogee: 35803.0
+32478
+Perigee: 35770.1 Apogee: 35846.5
 32487
 Perigee: 35783.9 Apogee: 35803.5
 32500
@@ -409,6 +500,8 @@ Perigee: 35781.4 Apogee: 35805.6
 Perigee: 35770.3 Apogee: 35815.7
 33459
 Perigee: 35780.0 Apogee: 35807.5
+33490
+Perigee: 35749.7 Apogee: 35838.8
 33595
 Perigee: 35773.7 Apogee: 35813.7
 33749
@@ -435,6 +528,8 @@ Perigee: 35789.7 Apogee: 35800.4
 Perigee: 35793.1 Apogee: 35793.8
 35756
 Perigee: 35793.8 Apogee: 35796.2
+35815
+Perigee: 35740.6 Apogee: 35851.5
 35873
 Perigee: 35783.0 Apogee: 35804.5
 35942
@@ -479,6 +574,8 @@ Perigee: 35772.5 Apogee: 35815.9
 Perigee: 35790.0 Apogee: 35797.4
 36745
 Perigee: 35772.7 Apogee: 35813.8
+36792
+Perigee: 35827.9 Apogee: 35848.9
 36830
 Perigee: 35773.2 Apogee: 35813.4
 36831
@@ -517,6 +614,8 @@ Perigee: 35783.0 Apogee: 35805.0
 Perigee: 35785.3 Apogee: 35802.8
 37606
 Perigee: 35786.9 Apogee: 35800.0
+37677
+Perigee: 35819.9 Apogee: 35851.4
 37748
 Perigee: 35781.1 Apogee: 35806.2
 37749
@@ -527,6 +626,8 @@ Perigee: 35771.9 Apogee: 35813.8
 Perigee: 35792.2 Apogee: 35795.2
 37779
 Perigee: 35786.9 Apogee: 35798.9
+37806
+Perigee: 35796.4 Apogee: 35837.6
 37809
 Perigee: 35783.3 Apogee: 35804.7
 37810
@@ -559,6 +660,8 @@ Perigee: 35761.8 Apogee: 35824.1
 Perigee: 35786.4 Apogee: 35801.1
 38101
 Perigee: 35765.7 Apogee: 35790.8
+38104
+Perigee: 35754.1 Apogee: 35848.3
 38107
 Perigee: 35784.8 Apogee: 35802.9
 38245
@@ -701,6 +804,8 @@ Perigee: 35791.2 Apogee: 35796.6
 Perigee: 35787.5 Apogee: 35800.6
 40147
 Perigee: 35782.9 Apogee: 35804.4
+40208
+Perigee: 35727.9 Apogee: 35854.3
 40258
 Perigee: 35738.1 Apogee: 35754.8
 40267
@@ -819,6 +924,8 @@ Perigee: 35779.4 Apogee: 35807.7
 Perigee: 35785.3 Apogee: 35802.0
 41747
 Perigee: 35785.8 Apogee: 35802.0
+41752
+Perigee: 35750.7 Apogee: 35836.6
 41793
 Perigee: 35774.2 Apogee: 35814.7
 41794
@@ -885,6 +992,8 @@ Perigee: 35787.5 Apogee: 35800.3
 Perigee: 35786.4 Apogee: 35802.0
 42907
 Perigee: 35789.8 Apogee: 35795.5
+42915
+Perigee: 35726.1 Apogee: 35861.0
 42917
 Perigee: 35787.0 Apogee: 35803.1
 42934
@@ -1047,6 +1156,8 @@ Perigee: 35793.3 Apogee: 35794.3
 Perigee: 35789.0 Apogee: 35799.1
 47613
 Perigee: 35781.5 Apogee: 35802.8
+47851
+Perigee: 35738.1 Apogee: 35846.8
 48618
 Perigee: 35786.4 Apogee: 35800.4
 48808
@@ -1205,6 +1316,8 @@ Perigee: 35787.4 Apogee: 35801.0
 Perigee: 35791.6 Apogee: 35796.3
 59915
 Perigee: 35785.4 Apogee: 35803.4
+59987
+Perigee: 35719.8 Apogee: 35845.5
 60086
 Perigee: 35785.9 Apogee: 35802.3
 60133
@@ -1255,3 +1368,5 @@ Perigee: 35784.3 Apogee: 35803.0
 Perigee: 35785.3 Apogee: 35800.7
 64470
 Perigee: 35787.2 Apogee: 35800.6
+96137
+Perigee: 35732.0 Apogee: 35832.3

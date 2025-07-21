@@ -1,3 +1,6 @@
+This file has all the satellites that be inside in a range 35'736 and 35'836 km and all the satellites that
+CROSS the geostacionary orbit. I mean a perigee less the lower limit and apogee major than upper limit.
+
 634
 Perigee:  35754.8 
 Apogee:  35829.1 
