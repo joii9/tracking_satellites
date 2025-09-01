@@ -1,17 +1,23 @@
+import re
+import time
+import numpy as np
+
 from datetime import datetime, timezone, timedelta
 from sgp4.api import WGS72, Satrec, jday # Import jday
-import numpy as np
-import time
 
 
-def predict_orbit(tle_line1, tle_line2, year, month, day, hour):
+
+
+
+
+def predict_orbit(tle_line1, tle_line2, year, month, day, hour, minute):
 
 
     # Create a Satrec object from the TLE
     satellite = Satrec.twoline2rv(tle_line1, tle_line2)
 
     # Define the time for prediction (UTC)
-    time_to_predict = datetime(year, month, day, hour, 0, 0) #, tzinfo=timezone.utc)
+    time_to_predict = datetime(year, month, day, hour, minute, 0) #, tzinfo=timezone.utc)
 
     # Convert the datetime object to Julian Date (jday) and fractional day (fr)
     # This is the crucial step for your sgp4 library version
@@ -86,38 +92,59 @@ def predict_orbit(tle_line1, tle_line2, year, month, day, hour):
         elif lon_deg < -180:
             lon_deg += 360
 
-        print(f"At {time_to_predict} UTC:")
-        print(f"Longitud: {lon_deg:.4f} degrees")
-        print(f"Latitud: {lat_deg:.4f} degrees")
-        f"Altitud: {alt:.4f} km"
+        #print(f"At {time_to_predict} UTC:")
+        #print(f"Longitud: {lon_deg:.4f} degrees")
+        #print(f"Latitud: {lat_deg:.4f} degrees")
+        #f"Altitud: {alt:.4f} km"
 
+        # CONDICION PARA APENDEAR 
+        if float(lon_deg) > -114.85000000000000 and float(lon_deg) < -114.75000000000000 and float(lat_deg) > -0.0500000000000000 and float(lat_deg) < 0.0500000000000000:
+            write= tle_line1[2:-62]+"\nLongitud: "+str(lon_deg)+"\nLatitud: "+str(lat_deg)+"\nAt: "+str(time_to_predict)+"\n\n"
+            #print(type(lon_deg))
+            #print(write)
+            textfile= open("C:\\Users\\Joel\\Documents\\Python\\tracking_satellites\\txt\\Alert_Satellites_Approach.txt", "a")
+            textfile.write(write)
+            textfile.close()
+            
 
-#TLEs
-tle_line1 = "1 23168U 94038A   25205.46876539 -.00000083  00000-0  00000-0 0  9998"
-tle_line2 = "2 23168  13.9258 355.0578 0007968 128.6983 238.2166  1.00162475113728"
+file = open("C:/Users/Joel/Documents/Python/tracking_satellites/txt/Long_Lat_Alt_Range.txt", "r")
+#print(file.read())
+str_TLEs_LLAR=file.read() ##LLAR- Long_Lat_Alt_Range
+#print(str_TLEs_LLAR)
+
+tle_line1= re.findall(r"1\s\d+U.+", str_TLEs_LLAR)#1\s\d+U
+tle_line2= re.findall(r"2\s\d+\s+\d+.\d+\s+\d+.\d+\s+\d+\s+.+", str_TLEs_LLAR)
+#print(tle_line1)
+#print(tle_line2)
 
 
 #Increment in date
 current_time_utc= datetime.now(timezone.utc)
-#print(current_time)
+print(current_time_utc)
+current_time_utc=current_time_utc.replace(minute=0, second=0, microsecond=0)
+print(current_time_utc)
 
 #start_time = time.time()  # Record the start time
-for hour_to_add in range(745):
-    #print(hour_to_add)
-    time_increment= timedelta(hours=hour_to_add)
-    future_time = current_time_utc + time_increment
-    #print(type(future_time))
+for i in range(len(tle_line1)):
+    for j in range(0, 44641,30):
+        future_time = current_time_utc + timedelta(minutes=j)
+        #print(future_time)
     
-    year=future_time.year
-    month=future_time.month
-    day=future_time.day
-    hour=future_time.hour
+        year=future_time.year
+        month=future_time.month
+        day=future_time.day
+        hour=future_time.hour
+        minute=future_time.minute
 
-    predict_orbit(tle_line1, tle_line2, year, month, day, hour)
+        predict_orbit(tle_line1[i], tle_line2[i], year, month, day, hour, minute)
+
     #print(f"{year}- {month}- {day}- {hour}")
+
 #end_time = time.time()    # Record the end time
 #execution_time = end_time - start_time
 #print(f"Execution time: {execution_time:.4f} seconds")
+
+
 
 
 
@@ -126,8 +153,6 @@ for hour_to_add in range(745):
 
 #start_time = time.time()  # Record the start time
 # Your code goes here
-
-
 
 #end_time = time.time()    # Record the end time
 #execution_time = end_time - start_time
